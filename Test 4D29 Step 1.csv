@@ -1,0 +1,52 @@
+"Seq.Number","SampleName",CPM,"FileName",Analyte
+1,Wallac 1470 CONTROL_BLANK,31240.8,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+2,Wallac 1470 STD.1 1,31031.2,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+3,Wallac 1470 STD.2 1,21741.2,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+4,Wallac 1470 STD.3 1,21649.8,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+5,Wallac 1470 STD.4 1,1714.7,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+6,Wallac 1470 STD.5 1,1705.3,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+7,Wallac 1470 STD.6 1,2834.7,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+8,Wallac 1470 STD.7 1,2627.0,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+9,Wallac 1470 STD.8 1,4145.9,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+10,Wallac 1470 STD.9 1,4146.6,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+11,Wallac 1470 STD.10 1,5763.2,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+12,Wallac 1470 CONTROL_BLANK,5923.5,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+13,Wallac 1470 0001 A 0h PLM-1,8217.4,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+14,Wallac 1470 0001 A 0.5h PLM-1,7918.0,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+15,Wallac 1470 0001 A 1h PLM-1,10474.7,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+16,Wallac 1470 0001 A 2h PLM-1,10966.6,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+17,Wallac 1470 0001 A 4h PLM-1,13217.0,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+18,Wallac 1470 0001 A 8h PLM-1,13309.0,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+19,Wallac 1470 0001 A 16h PLM-1,15498.5,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+20,Wallac 1470 0001 A 20h PLM-1,15593.7,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+21,Wallac 1470 0001 A 24h PLM-1,17595.2,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+22,Wallac 1470 0001 A 32h PLM-1,17164.3,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+23,Wallac 1470 CONTROL_BLANK,19635.4,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+24,Wallac 1470 STD.1 2,19792.6,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+25,Wallac 1470 STD.2 2,20956.8,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+26,Wallac 1470 STD.3 2,20745.2,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+27,Wallac 1470 STD.4 2,22106.7,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+28,Wallac 1470 STD.5 2,21687.8,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+29,Wallac 1470 STD.6 2,10064.9,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+30,Wallac 1470 STD.7 2,10196.3,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+31,Wallac 1470 STD.8 2,7391.7,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+32,Wallac 1470 STD.9 2,7264.4,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+33,Wallac 1470 STD.10 2,5444.9,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+34,Wallac 1470 CONTROL_BLANK,5750.8,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+35,Wallac 1470 QC.1 1,4287.4,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+36,Wallac 1470 QC.2 1,4292.3,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+37,Wallac 1470 QC.3 1,8654.0,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+38,Wallac 1470 QC.1 2,8807.5,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+39,Wallac 1470 QC.2 2,8139.1,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+40,Wallac 1470 QC.3 2,8757.6,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+"Seq.Number","SampleName",CPM,"FileName",Analyte
+41,Wallac 1470 QC.1 3,8235.9,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+42,Wallac 1470 QC.2 3,8623.5,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+43,Wallac 1470 QC.3 3,9590.0,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+44,Wallac 1470 CONTROL_BLANK,9787.3,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+45,Wallac 1470 QC.1 4,9411.2,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+46,Wallac 1470 QC.2 4,9507.9,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+47,Wallac 1470 QC.3 4,8426.2,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+48,Wallac 1470 QC.1 5,8394.5,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+49,Wallac 1470 QC.2 5,9259.3,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
+50,Wallac 1470 QC.3 5,8537.4,P:\WATSON\Validate\Archived\Wallac Wizard 1470\wallac.txt,A1
